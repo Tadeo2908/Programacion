@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+}
+
+/* Define un estilo para el texto destacado */
+.texto-destacado {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(170, 11, 99);
+}
+.texto-cocain {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: start;
+    color: black;
+}
+.texto-adiccion {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: start;
+    color: rgb(0, 0, 0);
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
