@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Estilos CSS para la tabla */
+table {
+    width: 70%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    border: 2px;
+}
+
+/* Estilos CSS para los encabezados de Hora y días de la semana */
+th {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+/* Estilos CSS para las celdas de datos */
+td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid white;
+}
+
+h1{
+    text-align: center;
+}
