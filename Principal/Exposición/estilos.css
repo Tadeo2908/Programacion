@@ -1,0 +1,56 @@
+h1{
+    color: rgb(221, 128, 68);
+    text-align: center;
+    font-size: 300%;
+    -webkit-text-stroke: 2px black;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.titulo{
+    background-color: rgb(255, 255, 255);
+    color: rgb(221  , 128, 68);
+
+    font-size: 150%;
+    font-weight: bold;
+    -webkit-text-stroke: 0.3px black;
+
+    border: 2px solid rgb(218, 215, 215);
+    padding: 10px; 
+    width: 300px; 
+    text-align: center; 
+    margin: 0 auto;
+}
+
+.texto{
+    font-size: large;
+    font-style:initial;
+
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(218, 215, 215);
+    padding: 10px; 
+    width: 70%; 
+    text-align: center; 
+    margin: 0 auto;
+}
+
+td {
+    color: rgb(221  , 128, 68);
+    
+
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(218, 215, 215);
+    padding: 10px; 
+    width: 200px; 
+    text-align: center; 
+    margin: 0 auto;
+}
+
+#boton{
+    background-color: rgb(218, 215, 215);
+    color: rgb(221, 128, 68); 
+    cursor: pointer; 
+    text-align: center; 
+    padding: 10px 20px; 
+    border-radius: 5px;
+}
